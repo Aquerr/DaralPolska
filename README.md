@@ -1,2 +1,2 @@
-# Daralstockholm
-Making new html site for daralstockholm
+# DaralPolska
+Making new html site for DaralPolska
